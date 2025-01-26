@@ -1,6 +1,26 @@
+## 8.0.0
+
+- Bump minimum Dart version to 3.4, minimum Flutter version to 3.22
+- Bump dependency on `package: location_web` to `^6.0.0`
+  - Remove dependency on `js` (#1007)
+
+## 7.0.1
+
+- Bump dependency on `package: location_web` to `^5.0.4`
+
+## 7.0.0
+
+- Bump minimum Dart version to 3.4, minimum Flutter version to 3.22
+- Bump dependencies
+
+## 6.0.2
+
+- Fix bugs #620 and #864 (#889)
+
 ## 6.0.1
 
-- Downgraded location_web dependency on js ^0.7.1 to js ^0.6.3 for compatibility with firebase_core ^2.27.2
+- Downgraded location_web dependency on js ^0.7.1 to js ^0.6.3 for compatibility
+  with firebase_core ^2.27.2 (#942)
 
 ## 6.0.0
 
